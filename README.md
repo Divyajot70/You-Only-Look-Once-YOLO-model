@@ -1,7 +1,7 @@
 # You-Only-Look-Once-YOLO-model
 YOLOv3 in using cv2.dnn.readNetFrom()
 WE use a pre-trained YOLOV3 Model and use OpenCV to run inferences over a few images
-YOLO detection 
+
 Steps Invovled-
 
 *Use Pretrained YOLOV3 weights (237MB)- https://pjreddie.com/media/files/yolov3.weights
